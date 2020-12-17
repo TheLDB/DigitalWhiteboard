@@ -1,0 +1,19 @@
+body {
+    background: black;
+}
+.header-image {
+    position: absolute;
+    z-index: 15;
+    left: 50%;
+    margin: 0 0 0 -150px;
+}
+.join {
+    color: white;
+}
+.buttons {
+    position: absolute;
+    z-index: 16;
+    left: 50%;
+    top: 50%;
+    margin: -150px 0 0 -150px;
+}
